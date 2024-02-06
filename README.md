@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm Abhijit pradhan, a passionate Web development,
 ## 🔧 Technologies & Tools
 
 - Programming Languages: c , c++ , java , python , javascript 💛 , PHP , mysql , mongodb
-- Frameworks & Libraries: react , express , mongoose, node , flask , 
+- Frameworks & Libraries: react , express , mongoose, node , flask , Django
 - Tools & Platforms: Vscode , postman , pycham , intelijidea , Android studio
 
 ## 🌱 Current Focus
@@ -18,8 +18,8 @@ I'm currently diving deep into MERN and exploring Machine learning , Artificial 
 
 ## 📫 Let's Connect
 
-- LinkedIn: #
-- Twitter: #
+- [LinkedIn](https://www.linkedin.com/in/abhijit-pradhan-948132259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- YouTube: #
 - Website: aviscodeverse.tech
 
 Feel free to explore my repositories and reach out. Happy coding! 🚀
