@@ -19,7 +19,7 @@ I'm currently diving deep into MERN and exploring Machine learning , Artificial 
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/abhijit-pradhan-948132259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
-- [ouTube](https://youtube.com/@AvisCodeVerse?si=K0BQjAeEPhhMxKAK) 
-- [Website]: aviscodeverse.tech
+- [YouTube](https://youtube.com/@AvisCodeVerse?si=K0BQjAeEPhhMxKAK) 
+- [Website](aviscodeverse.tech)
 
 Feel free to explore my repositories and reach out. Happy coding! 🚀
