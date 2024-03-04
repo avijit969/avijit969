@@ -1,11 +1,11 @@
 # Hello, Coders! 👋
 
-Welcome to my GitHub profile! I'm Abhijit pradhan, a passionate Web development, andde,DSA. Here you'll find a mix of personal projects, contributions, and maybe a few random ideas.
+Welcome to my GitHub profile! I'm Abhijit pradhan, a passionate Web development, android development,DSA. Here you'll find a mix of personal projects, contributions, and maybe a few random ideas.
 
 ## 🔧 Technologies & Tools
 
 - Programming Languages: c , c++ , java , python , javascript 💛 , PHP , mysql , mongodb
-- Frameworks & Libraries: react , express , mongoose, node , flask , Django
+- Frameworks & Libraries: react , express , mongoose, node , flask , Django ,tailwind , redux , redixUi
 - Tools & Platforms: Vscode , postman , pycham , intelijidea , Android studio
 
 ## 🌱 Current Focus
